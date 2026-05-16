@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862232875996",
+    "project_id": "stress-sense-ebf25",
+    "storage_bucket": "stress-sense-ebf25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862232875996:android:6863918161a3b1856e7519",
+        "android_client_info": {
+          "package_name": "com.example.stress_sense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGI6SixWGhjfUW1em2G3YgqFaVIXMwmXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
